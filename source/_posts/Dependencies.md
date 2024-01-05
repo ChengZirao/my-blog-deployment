@@ -1,6 +1,6 @@
 ---
 title: Node.js Dependencies
-date: 2023-12-21 10:12:30
+date: 2023-09-25 10:12:30
 tags:
 ---
 
@@ -46,7 +46,7 @@ Local dependencies are stored right at the project, in a name of 'node_modules' 
 
 ​	use command line **'npm install'**, then npm will read the 'package.json' in the project, read all 	dependencies and download everything
 
-![image-20230929163240996](C:\Users\orang_9qy7n8e\AppData\Roaming\Typora\typora-user-images\image-20230929163240996.png)
+![image-20230929163240996.png](https://github.com/ChengZirao/my-blog-deployment/blob/master/blog_img/image-20230929163240996.png?raw=true)
 
 ### package-lock.json:
 
