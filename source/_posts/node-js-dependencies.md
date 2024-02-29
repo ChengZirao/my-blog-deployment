@@ -1,7 +1,7 @@
 ---
 title: Node.js Dependencies
 date: 2023-09-25 10:12:30
-tags:
+tags: Node.js
 ---
 
 1. ### nodemon(dev dependency): use nodemon to restart the project automatically when code changed

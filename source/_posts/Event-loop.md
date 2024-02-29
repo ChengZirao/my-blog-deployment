@@ -1,7 +1,7 @@
 ---
 title: Event loop
 date: 2023-09-30 11:39:30
-tags:
+tags: Node.js
 ---
 
 ## (In p33. The Event Loop in practice)

@@ -1,5 +1,5 @@
 ---
-title: How To Use hexo.js
+title: How to Use hexo.js
 date: 2023-12-21 10:12:30
 tags:
 ---

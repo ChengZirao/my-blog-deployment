@@ -1,7 +1,7 @@
 ---
 title: Node Architecture
 date: 2023-09-30 9:12:30
-tags:
+tags: Node.js
 ---
 
 ### 1. Core dependencies: 

@@ -1,7 +1,7 @@
 ---
 title: Streams
 date: 2023-12-21 10:12:30
-tags:
+tags: Node.js
 ---
 
 Before talking about Streams, let's first take File System module in Node.js as an example:

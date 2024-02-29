@@ -1,5 +1,5 @@
 ---
-title: How To Update Git Repo?
+title: How to Update Git Repo?
 date: 2023-12-21 21:20:38
 tags: Git
 ---
@@ -8,7 +8,7 @@ tags: Git
 
 (here I use 'https://github.com/ChengZirao/chengzirao.github.io' as an example)
 
-`clone https://github.com/ChengZirao/chengzirao.github.io`
+`git clone https://github.com/ChengZirao/chengzirao.github.io`
 
 Then will generate a folder contains all the repo files at your current directory location.
 
@@ -21,6 +21,8 @@ It doesn't matter what way you create this new folder/file, the point is you hav
 #### 3) Stage the file for commit to your local repository
 
 `git add folder_name`
+
+*Or simply use `git add .` to stage all the new or modified files (highly recommended)*
 
 #### 4) Commit the file
 
